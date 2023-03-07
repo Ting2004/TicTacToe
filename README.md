@@ -1,6 +1,6 @@
 # Tictactoe Game
 
-*this project is buggy and it doe not run right now*
+*this project is buggy and it does not run right now*
 if might contain:
 - missing important comments and including unnecessary and useless comments in Chinese
 - duplicate code
